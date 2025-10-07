@@ -1,6 +1,6 @@
 # 📡 API Endpoint Data Scraper
 
-This project demonstrates how to scrape data directly from **API endpoints** by sending HTTP requests, parsing the JSON responses, and exporting the retrieved data in a structured JSON format using Python.
+This project demonstrates how to scrape data directly from **API endpoints** by sending HTTP requests, parsing the JSON responses, and exporting the retrieved data in a structured JSON format using Python.It fetches player statistics for the AFL(Australian Football League)season using the official AFL stats API nad processes the data into a structured pandas DataFrame.
 
 It is a lightweight and efficient alternative to traditional web scraping, ideal for developers who want clean access to data without dealing with HTML parsing or JavaScript-rendered content.
 
